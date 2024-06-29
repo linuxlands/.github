@@ -15,3 +15,6 @@
 一个只会记笔记的小学生（
 
 ![](https://github-readme-stats.vercel.app/api?username=LinuxWin232&show_icons=true&theme=transparent)
+
+[![](https://img.shields.io/badge/Github-LinuxWin-green?style=for-the-badge&logo=github&color=FFB686&logoColor=D9E0EE&labelColor=292324)](https://github.com/LinuxWin232)
+[![](https://img.shields.io/badge/Email-firemelon232@outlook.com-green?color=CAC992&label=Email&logo=googledrive&style=for-the-badge&logoColor=D9E0EE&labelColor=292324)]()
